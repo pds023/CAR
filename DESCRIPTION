@@ -7,12 +7,22 @@ Description: What the package does (one paragraph).
 License: What license is it under?
 Imports: 
     arrow,
+    bsicons,
+    bslib,
     config (>= 0.3.2),
     data.table,
+    DBI,
+    DT,
     golem (>= 0.4.1),
+    highcharter,
     janitor,
+    markdown,
     rdbnomics,
-    shiny (>= 1.8.0)
+    RSQLite,
+    shiny (>= 1.8.0),
+    shinycssloaders,
+    shinyRatings,
+    shinyWidgets
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
